@@ -13,4 +13,4 @@ cout<< "enter the value of n"<< endl;
 cin>>n;
 printCounting(n);
 return 0;
-}
+}  
