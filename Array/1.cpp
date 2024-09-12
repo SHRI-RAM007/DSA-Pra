@@ -5,5 +5,12 @@ int main(){
 
     int arr[5] = {1,2,3,4,5};
 
-    cout << "code sucessfully done "<< endl;
+    // cout <<arr[0] ;
+
+    // cout << " \n code sucessfully done "<< endl;
+    for (int i=0;i<5;i++){
+        cout << arr[i] << " ";
+    }
+
+    return 0;
 }
